@@ -13,7 +13,7 @@ public class NumberToWord {
 			System.out.println("The number in Word is " + words[number] );
 		else
 			System.out.println("Please Enter a  Number From 0 to 9");
-		
+
 
 	}
 
